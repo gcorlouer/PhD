@@ -8,7 +8,7 @@ What I expect from my PhD:
 * Success in dealing with non stationarities will be evaluated from VAR, state space and non parametric (Wavelets+multitaper) model comparisons. We know from
 previous work that non parametric approach should be able to handle the kind of non stationarity we face. Convergence between those models could be a suggestion
 that VAR and SS models capture significant causal contribution even though they non stationary asumption are violated. 
-* Another validation of methods would be to test them against virtual brain data
+* An additional validation of methods would be to test them against virtual brain data
 * Running these methods on other dataset: sleep and freerecall 
 * More speculative: compare with deep learning approach
 * More speculative: Algebraic topology and GC

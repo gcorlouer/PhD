@@ -7,7 +7,7 @@ What I expect from my PhD:
 * A potential important contribution is exploring how to deal with non stationarity induced by transient increase in neural firing upon stimuli presentation
 * Success in dealing with non stationarities will be evaluated from VAR, state space and non parametric (Wavelets+multitaper) model comparisons. We know from
 previous work that non parametric approach should be able to handle the kind of non stationarity we face. Convergence between those models could be a suggestion
-that VAR and SS models capture significant causal contribution even though they non stationary asumption are violated. 
+that VAR and SS models capture significant causal contribution even though non stationary asumption are violated. 
 * An additional validation of methods would be to test them against virtual brain data
 * Running these methods on other dataset: sleep and freerecall 
 * More speculative: compare with deep learning approach

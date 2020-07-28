@@ -20,7 +20,7 @@ that VAR and SS models capture significant causal contribution even though non s
 * More speculative: Explore the role of information flow between hyppocampal sharp wave ripples and other area in cortex
 
 ### Mathematical, conceptual contributions:
-More speculative here as I don't have a clear idea of what to contribute too, although I think this could be the area I could contribute the most.
+More speculative here as I don't have a clear idea of what to contribute too, although I think this could be the area I could contribute one paper within a few 100 of hours of work.
 * Cointegration (would need to catch up with Lionel on this)
 * Statistical tests for state space models
 * Information theoretic interpretation of predictive processing
